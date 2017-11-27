@@ -1,0 +1,1 @@
+select presenca from frequencia where id_aluno_fk = 1 and data = '2017-05-05';
